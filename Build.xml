@@ -1,4 +1,4 @@
-<project name="AntBuilderProject" default="main" basedir="C:\Users\yaminishashank_b\eclipse-workspace\AntBuilderProject">
+<project name="AntBuilderProject" default="main" basedir=".">
 	<description>
 		Create a Java Project (JAR) with Ant build script
 	</description>
