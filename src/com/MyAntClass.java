@@ -8,6 +8,7 @@ public class MyAntClass {
 
 		System.out.println("Hey Shashank!, You Just Successfully Built The Project!");
 		System.out.println(getLocalCurrentDate());
+		System.out.println("End of Program");
 		
 	}
 
