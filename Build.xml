@@ -35,7 +35,7 @@
 		<jar jarfile="${dist.dir}/${projectName}-${DSTAMP}.jar" basedir="${build.dir}" >
 		    <manifest>
 			<!-- create an executable Jar -->
-			<attribute name="Main-Class" value="com.mkyong.core.utils.DateUtils" />
+			<attribute name="Main-Class" value="com.MyAntClass" />
 		    </manifest>
 		</jar>
 	</target>
